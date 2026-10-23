@@ -5,6 +5,6 @@
 Python | FastAPI | Vue | MySQL | Redis | Playwright
 
 📌 项目方向：
-电商爬虫、数据采集、AI短剧工具、企业内部SaaS系统
+AI应用开发，工作流搭建，爬虫开发
 
 ✨ 日常：持续折腾有趣的开源项目
