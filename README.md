@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0x6a11cb,0x2575fc&height=180&section=header&text=%F0%9F%91%8B%20%E9%83%AD%E6%98%8E%E5%9D%A4&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Python%20%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%C2%B7%20%E8%87%AA%E5%8A%A8%E5%8C%96&descSize=18&descAlignY=58&descAlign=center" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient:0x6a11cb,0x2575fc&height=180&section=header&text=%F0%9F%91%8B%20%E9%83%AD%E6%98%8E%E5%9D%A4&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Python%20%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%C2%B7%20%E8%87%AA%E5%8A%A8%E5%8C%96&descSize=18&descAlignY=58&descAlign=center" alt="header" />
 
 <p align="center">
   <a href="https://github.com/guomingkun8-a11y">
