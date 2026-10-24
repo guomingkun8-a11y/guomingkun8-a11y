@@ -16,30 +16,24 @@
 - 🧠 持续学习软件架构、系统设计与开源项目
 - 🚀 希望把想法变成真正解决问题的产品
 
+### ✍️ 最新文章
+
+<!-- BLOG-POSTS:START -->
+- `2026-10-24` **AI 时代，程序员不能只等需求** · work
+- `2026-10-23` **SQLBot：用一句话问数据库要数据** · study
+- `2026-10-22` **FastAPI 全栈模板：技术选型分析** · study
+- `2026-10-06` **咖啡对身体有哪些影响？** · life
+<!-- BLOG-POSTS:END -->
+
+> 文章来自我的 [GMK-blog](https://github.com/guomingkun8-a11y/GMK-blog)，每日自动更新。
+
 ### 🛠️ 技术栈
 
-**编程语言**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-**后端开发与 AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Dify](https://img.shields.io/badge/Dify-6366F1?style=flat-square)
-
-**前端与基础设施**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,go,fastapi,flask,django,vue,langchain,mysql,postgres,redis,docker,linux,git&theme=light" alt="技术栈" />
+  </a>
+</p>
 
 ### 🚀 我的开源项目
 
@@ -86,6 +80,12 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=guomingkun8-a11y&theme=github&hide_border=true" alt="连续打卡统计" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/guomingkun8-a11y" alt="GitHub 贡献热力图" width="100%" />
 </p>
 
 </details>
