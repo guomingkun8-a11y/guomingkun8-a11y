@@ -1,4 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient:0x6a11cb,0x2575fc&height=180&section=header&text=%F0%9F%91%8B%20%E9%83%AD%E6%98%8E%E5%9D%A4&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Python%20%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%C2%B7%20%E8%87%AA%E5%8A%A8%E5%8C%96&descSize=18&descAlignY=58&descAlign=center" alt="header" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=-apple-system&weight=700&size=40&pause=1500&color=1d1d1f&center=true&vCenter=true&width=800&height=170&lines=%F0%9F%91%8B+%E9%83%AD%E6%98%8E%E5%9D%A4" alt="glass-header" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=-apple-system&weight=400&size=16&pause=1500&color=6e6e73&center=true&vCenter=true&width=800&height=40&lines=Python+%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+AI+%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91+%C2%B7+%E8%87%AA%E5%8A%A8%E5%8C%96" alt="glass-subtitle" />
+</p>
 
 <p align="center">
   <a href="https://github.com/guomingkun8-a11y">
