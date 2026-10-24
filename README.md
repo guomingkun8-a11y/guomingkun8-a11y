@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=-apple-system&weight=700&size=40&pause=1500&color=1d1d1f&center=true&vCenter=true&width=800&height=170&lines=%F0%9F%91%8B+%E9%83%AD%E6%98%8E%E5%9D%A4" alt="glass-header" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=-apple-system&weight=400&size=16&pause=1500&color=6e6e73&center=true&vCenter=true&width=800&height=40&lines=Python+%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+AI+%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91+%C2%B7+%E8%87%AA%E5%8A%A8%E5%8C%96" alt="glass-subtitle" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient:0x3a3a3c,0x8e8e93&height=200&section=header&text=%F0%9F%91%8B%20%E9%83%AD%E6%98%8E%E5%9D%A4&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Python%20%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20AI%20%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%20%C2%B7%20%E8%87%AA%E5%8A%A8%E5%8C%96&descSize=17&descColor=e5e5ea&descAlignY=60&descAlign=center&stroke=ffffff&strokeWidth=1" alt="header" />
 
 <p align="center">
   <a href="https://github.com/guomingkun8-a11y">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6A11CB&center=true&vCenter=true&random=false&width=520&lines=%E8%AE%B0%E5%BD%95%E6%89%80%E5%AD%A6%EF%BC%8C%E8%AE%B0%E5%BD%95%E6%89%80%E6%80%9D%EF%BC%8C%E8%AE%B0%E5%BD%95%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E3%80%82;%E4%B8%8D%E8%AE%BE%E7%BB%88%E7%82%B9%EF%BC%8C%E5%8F%AA%E7%AE%A1%E5%90%91%E5%89%8D%E3%80%82;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%9C%9F%E6%AD%A3%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E4%BA%A7%E5%93%81" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6e6e73&center=true&vCenter=true&random=false&width=520&lines=%E8%AE%B0%E5%BD%95%E6%89%80%E5%AD%A6%EF%BC%8C%E8%AE%B0%E5%BD%95%E6%89%80%E6%80%9D%EF%BC%8C%E8%AE%B0%E5%BD%95%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E3%80%82;%E4%B8%8D%E8%AE%BE%E7%BB%88%E7%82%B9%EF%BC%8C%E5%8F%AA%E7%AE%A1%E5%90%91%E5%89%8D%E3%80%82;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%9C%9F%E6%AD%A3%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E4%BA%A7%E5%93%81" alt="Typing SVG" />
   </a>
 </p>
 
