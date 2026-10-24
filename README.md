@@ -16,17 +16,6 @@
 - 🧠 持续学习软件架构、系统设计与开源项目
 - 🚀 希望把想法变成真正解决问题的产品
 
-### ✍️ 最新文章
-
-<!-- BLOG-POSTS:START -->
-- `2026-10-24` **AI 时代，程序员不能只等需求** · work
-- `2026-10-23` **SQLBot：用一句话问数据库要数据** · study
-- `2026-10-22` **FastAPI 全栈模板：技术选型分析** · study
-- `2026-10-06` **咖啡对身体有哪些影响？** · life
-<!-- BLOG-POSTS:END -->
-
-> 文章来自我的 [GMK-blog](https://github.com/guomingkun8-a11y/GMK-blog)，每日自动更新。
-
 ### 🛠️ 技术栈
 
 <p align="center">
