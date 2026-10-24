@@ -59,6 +59,13 @@
       <a href="https://github.com/guomingkun8-a11y/TB_spider-gmk">查看项目 →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎨 RAW 多模态 AI 创作平台</h3>
+      <p>面向电商团队的多模态 AI 创作与生产平台，支持图片、视频、音频生成与无限画布。</p>
+      <a href="https://github.com/guomingkun8-a11y/RAW_PHOTO">查看项目 →</a>
+    </td>
+  </tr>
 </table>
 
 ### 📊 GitHub 数据
