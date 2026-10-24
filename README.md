@@ -1,11 +1,12 @@
 # 👋 你好，我是郭明坤
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=20&duration=3000&pause=800&color=64748B&center=true&vCenter=true&width=520&lines=Python+%E5%BC%80%E5%8F%91%E8%80%85;AI+%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91;持续学习，持续构建" alt="动态文字" />
+  <strong>Python 开发者 · AI 应用开发 · 自动化</strong>
 </p>
 
 <p align="center">
-  <i>记录所学，记录所思，记录走过的路。不设终点，只管向前。</i>
+  记录所学，记录所思，记录走过的路。
+  <br/>
+  不设终点，只管向前。
 </p>
 
 ---
