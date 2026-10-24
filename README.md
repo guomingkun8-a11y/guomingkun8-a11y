@@ -72,6 +72,24 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guomingkun8-a11y&layout=compact&hide_border=true&theme=transparent" alt="常用编程语言" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guomingkun8-a11y&color=6e6e73&style=flat-square&label=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="访问量" />
+  <img src="https://img.shields.io/github/followers/guomingkun8-a11y?style=flat-square&label=Followers&color=6e6e73" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/guomingkun8-a11y?style=flat-square&label=Stars&color=6e6e73" alt="Stars" />
+  <img src="https://img.shields.io/github/created-at/guomingkun8-a11y/guomingkun8-a11y?style=flat-square&label=Created&color=6e6e73" alt="创建时间" />
+</p>
+
+<details>
+<summary>📈 更多动态数据</summary>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=guomingkun8-a11y&theme=github&hide_border=true" alt="连续打卡统计" />
+</p>
+
+</details>
+
 ### 🔬 最近在研究什么？
 
 <details>
