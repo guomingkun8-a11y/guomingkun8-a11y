@@ -25,42 +25,6 @@
   </a>
 </p>
 
-### 🚀 我的开源项目
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎬 AI 漫画视频工作台</h3>
-      <p>探索 AI 漫画视频生成与自动化工作流。</p>
-      <p>
-        <a href="https://github.com/guomingkun8-a11y/ai-manga-video-reverse-workbench"><img src="https://img.shields.io/github/stars/guomingkun8-a11y/ai-manga-video-reverse-workbench?style=flat-square&label=Stars&color=6e6e73" alt="Stars" /></a>
-        <a href="https://github.com/guomingkun8-a11y/ai-manga-video-reverse-workbench"><img src="https://img.shields.io/github/forks/guomingkun8-a11y/ai-manga-video-reverse-workbench?style=flat-square&label=Forks&color=8e8e93" alt="Forks" /></a>
-      </p>
-      <a href="https://github.com/guomingkun8-a11y/ai-manga-video-reverse-workbench">查看项目 →</a>
-    </td>
-    <td width="50%">
-      <h3>🕷️ 淘宝数据采集工具</h3>
-      <p>电商商品评论采集与数据分析相关实践。</p>
-      <p>
-        <a href="https://github.com/guomingkun8-a11y/TB_spider-gmk"><img src="https://img.shields.io/github/stars/guomingkun8-a11y/TB_spider-gmk?style=flat-square&label=Stars&color=6e6e73" alt="Stars" /></a>
-        <a href="https://github.com/guomingkun8-a11y/TB_spider-gmk"><img src="https://img.shields.io/github/forks/guomingkun8-a11y/TB_spider-gmk?style=flat-square&label=Forks&color=8e8e93" alt="Forks" /></a>
-      </p>
-      <a href="https://github.com/guomingkun8-a11y/TB_spider-gmk">查看项目 →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎨 RAW 多模态 AI 创作平台</h3>
-      <p>面向电商团队的多模态 AI 创作与生产平台，支持图片、视频、音频生成与无限画布。</p>
-      <p>
-        <a href="https://github.com/guomingkun8-a11y/RAW_PHOTO"><img src="https://img.shields.io/github/stars/guomingkun8-a11y/RAW_PHOTO?style=flat-square&label=Stars&color=6e6e73" alt="Stars" /></a>
-        <a href="https://github.com/guomingkun8-a11y/RAW_PHOTO"><img src="https://img.shields.io/github/forks/guomingkun8-a11y/RAW_PHOTO?style=flat-square&label=Forks&color=8e8e93" alt="Forks" /></a>
-      </p>
-      <a href="https://github.com/guomingkun8-a11y/RAW_PHOTO">查看项目 →</a>
-    </td>
-  </tr>
-</table>
-
 ### 📊 GitHub 数据
 
 <p align="center">
